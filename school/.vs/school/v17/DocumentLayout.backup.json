@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Code\\Hroth-it\\csharp\\school\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8598A6AB-4900-4581-9215-095E0CACA890}|school.csproj|h:\\code\\hroth-it\\csharp\\school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8598A6AB-4900-4581-9215-095E0CACA890}|school.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Code\\Hroth-it\\csharp\\school\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\Code\\Hroth-it\\csharp\\school\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:23:12.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

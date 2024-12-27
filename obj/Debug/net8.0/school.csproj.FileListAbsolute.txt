@@ -1,0 +1,15 @@
+H:\Code\Hroth-it\csharp\school\bin\Debug\net8.0\school.exe
+H:\Code\Hroth-it\csharp\school\bin\Debug\net8.0\school.deps.json
+H:\Code\Hroth-it\csharp\school\bin\Debug\net8.0\school.runtimeconfig.json
+H:\Code\Hroth-it\csharp\school\bin\Debug\net8.0\school.dll
+H:\Code\Hroth-it\csharp\school\bin\Debug\net8.0\school.pdb
+H:\Code\Hroth-it\csharp\school\obj\Debug\net8.0\school.GeneratedMSBuildEditorConfig.editorconfig
+H:\Code\Hroth-it\csharp\school\obj\Debug\net8.0\school.AssemblyInfoInputs.cache
+H:\Code\Hroth-it\csharp\school\obj\Debug\net8.0\school.AssemblyInfo.cs
+H:\Code\Hroth-it\csharp\school\obj\Debug\net8.0\school.csproj.CoreCompileInputs.cache
+H:\Code\Hroth-it\csharp\school\obj\Debug\net8.0\school.sourcelink.json
+H:\Code\Hroth-it\csharp\school\obj\Debug\net8.0\school.dll
+H:\Code\Hroth-it\csharp\school\obj\Debug\net8.0\refint\school.dll
+H:\Code\Hroth-it\csharp\school\obj\Debug\net8.0\school.pdb
+H:\Code\Hroth-it\csharp\school\obj\Debug\net8.0\school.genruntimeconfig.cache
+H:\Code\Hroth-it\csharp\school\obj\Debug\net8.0\ref\school.dll
